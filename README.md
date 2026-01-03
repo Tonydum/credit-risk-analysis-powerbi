@@ -84,7 +84,6 @@ Focuses on borrower characteristics and financial stability:
 - `dashboards/` – Power BI dashboard file (PBIX)
 - `screenshots/` – Dashboard page previews
 - `docs/` – Supporting documentation (data dictionary)
-- `data/` – Sample or anonymized data (optional)
 
 ---
 
