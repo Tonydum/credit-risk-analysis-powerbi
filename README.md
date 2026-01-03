@@ -27,6 +27,8 @@ Provides a high-level view of:
 
 **Purpose:** Quickly assess portfolio health and incoming risk.
 
+https://github.com/Tonydum/credit-risk-analysis-powerbi/blob/main/risk-credit.png
+
 ---
 
 ### 2. Credit Risk & Approval Drivers
