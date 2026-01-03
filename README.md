@@ -27,7 +27,7 @@ Provides a high-level view of:
 
 **Purpose:** Quickly assess portfolio health and incoming risk.
 
-https://github.com/Tonydum/credit-risk-analysis-powerbi/blob/main/risk-credit.png
+<img width="1270" height="788" alt="overview" src="https://github.com/user-attachments/assets/e2227bd3-8de9-40ab-8278-2db705480dad" />
 
 ---
 
@@ -39,6 +39,8 @@ Explores the key drivers behind approval and decline decisions, including:
 - Concentration of declines among higher-risk applicants
 
 **Purpose:** Explain *why* loans are approved or declined.
+  
+<img width="1268" height="703" alt="risk-credit" src="https://github.com/user-attachments/assets/757f3f93-f489-464e-bf99-1e7cb3026fc7" />
 
 ---
 
@@ -50,6 +52,8 @@ Analyzes how risk is priced and where exposure is concentrated:
 - Relationship between pricing and borrower credit quality
 
 **Purpose:** Evaluate pricing consistency and risk exposure across products.
+  
+<img width="1270" height="788" alt="loan-products" src="https://github.com/user-attachments/assets/26ea3f83-2e03-4d38-953c-9e48dd3db757" />
 
 ---
 
@@ -61,6 +65,8 @@ Focuses on borrower characteristics and financial stability:
 - Occupation status
 
 **Purpose:** Identify which borrower traits most influence approval outcomes.
+
+<img width="1272" height="791" alt="customer-segments" src="https://github.com/user-attachments/assets/abdc3763-0a6b-4e1e-a1b3-51f0aa152b32" />
 
 ---
 
