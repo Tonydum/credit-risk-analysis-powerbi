@@ -77,7 +77,7 @@ This document describes the fields used in the Credit Risk Analysis Dashboard fo
 ---
 
 ## Notes & Assumptions
-- All monetary values are represented in consistent units; currency is not specified.
+- All monetary values are represented in consistent units.
 - Ratio fields are provided or derived for analytical purposes and used to assess borrower risk.
 - The dataset uses simulated data and does not represent real individuals or institutions.
 - Calculated fields were created to support segmentation, filtering, and risk analysis in Power BI.
