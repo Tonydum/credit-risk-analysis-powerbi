@@ -40,7 +40,7 @@ Explores the key drivers behind approval and decline decisions, including:
 
 **Purpose:** Explain *why* loans are approved or declined.
   
-<img width="1268" height="703" alt="risk-credit" src="https://github.com/user-attachments/assets/757f3f93-f489-464e-bf99-1e7cb3026fc7" />
+<img width="1461" height="807" alt="risk-credit1" src="https://github.com/user-attachments/assets/f40905fd-1f3d-45e2-8437-f9a1a42edc28" />
 
 ---
 
